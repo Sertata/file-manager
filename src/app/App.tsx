@@ -1,7 +1,11 @@
-import FileManager from "@/pages/FileManager";
+import FileManager from '@/pages/FileManager';
 
 function App() {
-  return <><FileManager /></>;
+  return (
+    <>
+      <FileManager />
+    </>
+  );
 }
 
 export default App;
